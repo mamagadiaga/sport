@@ -1,0 +1,41 @@
+.one{
+    background-image: url('./Medias/hm1.jpg');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.bouton:hover{
+    transform: scale(1.10) translateZ(0);
+}
+.carte1{
+    background-image: url('./Medias/hm.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carte2{
+    background-image: url('./Medias/fe.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carte3{
+    background-image: url('./Medias/ef2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card:hover{
+    transform: scale(1.10) translateZ(0);
+}
+
+.hover1:hover{
+    transform: scale(1.10) translateZ(0);
+} 
+.ten{
+    background-image: linear-gradient(rgba(56, 55, 55, 0.658),rgb(56, 55, 55, 0.658)),url('./Medias/istockphoto-144808221-612x612.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
